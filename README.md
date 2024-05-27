@@ -107,7 +107,7 @@ If you do not select any operation (create or modify), the script will exit, and
 Contributions to improve and enhance the functionality of the script are welcome. Feel free to fork the repository, make changes, and submit a pull request.
 
 ## License
-This script is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
+This script is open-source and available under the GNU GENERAL PUBLIC LICENSE. Feel free to use, modify, and distribute it.
 
 ## Contributors ✨
 
