@@ -1,7 +1,7 @@
 <h1 align="center" style="border-bottom: none">
     <a href="//docs.aws.amazon.com" target="_blank"><img alt="RDS Custom Endpoint" src="/documentation/images/og.jpeg"></a><br>RDS Connectify
 </h1>
-
+     
 <p align="center">Visit <a href="https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_CreateDBClusterEndpoint.html" target="_blank">docs.aws.amazon.com</a> for the full documentation,
 examples and guides.</p>
 
